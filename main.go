@@ -1,5 +1,5 @@
 package ts
 
 func main() {
-	println("hello")
+	println("hello2")
 }
